@@ -1,0 +1,1 @@
+ALTER TABLE "server_user" ADD COLUMN "user_type" varchar(255) DEFAULT 'user' NOT NULL;
